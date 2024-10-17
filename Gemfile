@@ -47,7 +47,7 @@ gem 'sqlite3', '~> 2.1'
 gem 'dropzonejs-rails', '~> 0.8.5'
 gem 'will_paginate-bootstrap4'
 gem 'will_paginate', '~> 3.3'
-gem 'font-awesome-sass', '~> 5.15.0'
+gem 'font-awesome-sass', '~> 6.5.2'
 
 group :development, :test do
   # See https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debug-gem
