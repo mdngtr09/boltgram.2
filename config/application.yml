@@ -1,16 +1,16 @@
 # Add configuration values here, as shown below.
 #
 # pusher_app_id: "2954"
-# pusher_key: 7381a978f7dd7f9a1117
-# pusher_secret: abdc3b896a0ffb85d373
-# stripe_api_key: sk_test_2J0l093xOyW72XUYJHE4Dv2r
-# stripe_publishable_key: pk_test_ro9jV5SNwGb1yYlQfzG17LHK
+# pusher_key: 
+# pusher_secret: 
+# stripe_api_key: 
+# stripe_publishable_key: 
 #
 # production:
-#   stripe_api_key: sk_live_EeHnL644i6zo4Iyq4v1KdV9H
-#   stripe_publishable_key: pk_live_9lcthxpSIHbGwmdO941O1XVU
-cloudinary_cloud_name: "ddirlrbvh"
-cloudinary_api_key: "636437375326748"
-cloudinary_api_secret: "d_R4gDnkV5jsNoAuT2gEmrd5Vx4"
-twitter_app_id: "gmYKo7WgqdJ3jCJv8FhPUaDYF"
-twitter_app_secret: "xptePISO2ZXghDkXp4nbd8l4odhO8plmAoHirEczGbyw94VePq"
+#   stripe_api_key: 
+#   stripe_publishable_key: 
+cloudinary_cloud_name: ""
+cloudinary_api_key: ""
+cloudinary_api_secret: ""
+twitter_app_id: ""
+twitter_app_secret: ""
